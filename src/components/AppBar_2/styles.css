@@ -1,0 +1,68 @@
+.appbar_2 {
+    width: 81%;
+    height: 50px;
+    background-color: #F2F5F9;
+    margin-left: 19%;
+    padding: 5px;
+    margin-bottom: 1px;
+}
+
+.app_2_container {
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.appbar_2_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.app_2_left_heading {
+    font-size: 20px;
+    font-weight: b;
+    color: blue;
+    font-weight: 550;
+    margin-left: 15px;
+}
+
+.app_2_left {
+    width: 50px;
+}
+
+.app_2_left_icons {
+    color: grey !important;
+    font-size: 30px !important;
+    font-weight: 300 !important;
+}
+
+.app_2_dianecooper {
+    color: gray;
+    font-weight: 600;
+}
+
+.app_2_right_container {
+    display: flex;
+}
+
+.print {
+    margin-top: 5%;
+    margin-right: 30px;
+}
+
+.edit {
+    margin-right: 30px;
+    margin-top: 4%;
+}
+
+.btn {
+    background-color: white !important;
+    height: 30px !important;
+    /* margin-top: 10px !important; */
+    font-weight: 100 !important;
+    font-size: 19px !;
+    text-transform: lowercase !important;
+}

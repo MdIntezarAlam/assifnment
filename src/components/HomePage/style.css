@@ -1,0 +1,438 @@
+.homepage {
+    width: 80%;
+    height: 150vh;
+    margin-left: 19%;
+    background-color: #F2F5F9;
+    color: black;
+}
+
+.div_container {
+    display: flex;
+}
+
+.div1 {
+    width: 23%;
+    height: 50vh;
+    margin: 10px;
+}
+
+.div1_box {
+    width: 100%;
+    height: 80%;
+    background-color: white;
+}
+
+.div1_img {
+    display: inline-block;
+
+}
+
+.div1_imgs {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: 90px;
+    margin-top: 30px
+}
+
+.div1_heading {
+    margin-left: 80px;
+    font-weight: 600;
+    color: black;
+    margin-top: 5px;
+}
+
+.div1_s_heading {
+    align-items: center;
+    font-weight: 300;
+    color: grey;
+    margin-left: 30px;
+    padding: 5px;
+}
+
+.div1_second_heading {
+    width: 109%;
+    height: 10vh;
+    display: flex;
+}
+
+.post {
+    width: 50%;
+    margin-right: 1%;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+.upcaming {
+    width: 50%;
+    margin-right: 1%;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.digit_post {
+    margin-top: 1%;
+    font-weight: 600;
+}
+
+.post_15 {
+    font-weight: 300;
+    color: grey;
+}
+
+
+.div_1_btn {
+    width: 100%;
+    padding: 8px;
+    margin-left: 10px;
+    border: none;
+    border-style: none;
+    border-radius: 5px;
+    background-color: rgb(239, 239, 239);
+    color: black;
+    cursor: pointer;
+
+}
+
+.div2 {
+    width: 43%;
+    height: 50vh;
+    margin: 10px;
+    margin: 10px;
+}
+
+.div2_box {
+    width: 100%;
+    height: 80%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+
+.div2_gender {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    margin-right: 5px;
+    padding: 5px;
+
+}
+
+.gender_citys {
+    margin-right: 80px;
+}
+
+.div_2_status {
+    display: flex;
+}
+
+.div_2_code {
+    padding-left: 60px;
+}
+
+.gender_gender {
+    color: grey;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+.div3 {
+    width: 34%;
+    height: 55vh;
+    margin: 10px;
+}
+
+.div3_box {
+    width: 100%;
+    height: 80%;
+    background-color: white;
+}
+
+.div3_top {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
+.top_heading {
+    font-weight: 600;
+    color: black;
+}
+
+.top_button {
+    color: blue;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.div3_notes_box {
+    width: 97%;
+    height: 60%;
+    background-color: #EFF1F7;
+    margin: auto;
+}
+
+.pragrapg {
+    padding: 20px;
+}
+
+.lorem {
+    padding: 5px;
+    font-weight: 300;
+    color: grey;
+}
+
+.div3_btn {
+    display: flex;
+    justify-content: end;
+    margin: 10px;
+}
+
+.save_btn {
+    width: 30%;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    background-color: blue;
+}
+
+.second_paragraph {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.third_div {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+}
+
+.div3_left {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.user_ico {
+    color: blue !important;
+}
+
+.user_name {
+    margin-left: 5px;
+    font-weight: 300;
+    color: grey;
+}
+
+.div3_right {
+    font-weight: 100;
+    font-size: 15px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.btnpage_box_container {
+    height: 48vh;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btn__left_box {
+    width: 65%;
+    height: 120%;
+    border-radius: 10px;
+    margin-right: 20px;
+    background-color: white;
+}
+
+.left_heading_page {
+    width: 65%;
+    padding: 6px;
+    border-radius: 10px;
+    margin: 15px;
+    background-color: #EFF1F7;
+    display: flex;
+    justify-content: space-between;
+
+    align-items: center;
+}
+
+.div_btns {
+    width: 110%;
+    border-radius: 7px;
+    padding: 9px;
+    border: none;
+    border-style: none;
+    background-color: white;
+    color: blue;
+}
+
+.post_div, .medical_div {
+    font-weight: 300;
+    font-size: 14px;
+    color: grey;
+}
+
+.medical_div {
+    margin-right: 7px;
+}
+
+.btnpage_middlepage {
+    width: 95%;
+    height: 76%;
+    background-color: grey;
+    margin: auto;
+}
+
+.middlepage_top {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #EFF1F7;
+}
+
+.middle_lft {
+    color: black;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.middle_icons {
+    width: 100% !important;
+    background-color: white !important;
+    text-transform: lowercase !important;
+    padding: 3px !important;
+}
+
+.middle_middle {
+    margin-top: 1px;
+    height: 80%;
+    background-color: #EFF1F7;
+
+}
+
+.midlepage_line {
+    width: 3px;
+    height: 100%;
+    margin-left: 10%;
+    background-color: saddlebrown;
+}
+
+.middlepage_left_right {
+    width: 500%;
+    padding: 20px;
+}
+
+.left_boxs {
+    width: 560px;
+    height: 30%;
+    padding: 9px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+.smae_heading {
+    margin: 4px;
+}
+
+.openAccess {
+    font-weight: 600;
+    color: black;
+}
+
+.right_box {
+    margin-top: 80%;
+    width: 560px;
+    height: 30%;
+    padding: 9px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/* right */
+.btn_right_box {
+    width: 32%;
+    height: 95%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.right_heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.fils {
+    font-weight: 600;
+    color: black;
+}
+
+.addfiles {
+    color: blue;
+    font-weight: bolder;
+}
+
+.file_icon {
+    height: 19px !important;
+}
+
+.secn_div {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+.chekup_result {
+    font-size: 17px;
+}
+
+.f_ico {
+    color: black !important;
+    font-size: 19px !important;
+    font-weight: 100 !important;
+}
+.result{
+    margin-right: 80px;
+    font-weight: 100;
+}
+
+.secn_div2 {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    margin-top: 2%;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}

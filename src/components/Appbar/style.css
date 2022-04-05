@@ -1,0 +1,96 @@
+.appbar {
+    width: 81%;
+    height: 50px;
+    background-color: #F2F5F9;
+    margin-left: 19%;
+    padding: 10px;
+}
+
+.app_container {
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.app_left {
+    width: 50px;
+}
+
+
+.appbar_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left_icons {
+    color: #2D69FB !important;
+    font-size: 30px !important;
+}
+
+.app_left_heading {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+
+.app_right_container {
+    display: flex;
+    margin: 10px;
+}
+
+.search {
+    width: 50%;
+    height: 40px;
+    border: none;
+    margin-right: 25px;
+    /*  */
+}
+
+.search_icon {
+    height:33px !important;
+    margin-left: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: grey;
+
+}
+
+.input_search_bar {
+    border: none;
+    border-style: none;
+    padding: 10px;
+}
+
+.app_right {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+.first_icon {
+    width: 30px !important;
+    height: 30px !important;
+    margin-left: 30px;
+}
+
+.add_icon {
+    width: 33px !important;
+    height: 33px !important;
+    margin-bottom: 20px;
+
+}
+.second_icon{
+    width: 40px !important;
+    height: 40px !important;
+    margin-left: 20px !important;
+    justify-content: center !important;
+    text-align: center !important;
+    color: black !important;
+    background-color: white !important;
+}
